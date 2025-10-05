@@ -1,11 +1,10 @@
-const CACHE_NAME = 'mp-tende-pwa-v3';
+const CACHE_NAME = '\14';
 const ASSETS = [
-  './',
-  './index.html',
-  './manifest.webmanifest',
-  './icons/icon-192.png',
-  './icons/icon-512.png',
-  './logo-header.png'
+  '/Tende/',
+  '/Tende/index.html',
+  '/Tende/manifest.webmanifest',
+  '/Tende/icons/icon-192.png',
+  '/Tende/icons/icon-512.png'
 ];
 
 self.addEventListener('install', (event) => {

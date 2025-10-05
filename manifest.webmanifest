@@ -1,9 +1,9 @@
 {
   "name": "MP TENDE",
   "short_name": "MP TENDE",
-  "description": "Calcolatore L×H per tende da sole, modelli personalizzabili (unità in cm).",
-  "start_url": ".",
-  "scope": ".",
+  "description": "Calcolatore L×H per tende da sole (cm).",
+  "start_url": "/Tende/",
+  "scope": "/Tende/",
   "display": "standalone",
   "background_color": "#0B0C0E",
   "theme_color": "#2FD07B",
@@ -12,13 +12,13 @@
       "src": "icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "any maskable"
     },
     {
       "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "any maskable"
     }
   ]
 }
